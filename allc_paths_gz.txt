@@ -1,0 +1,10 @@
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P2-6-M15-I12.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P3-2-P20-E3.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P6-3-G4-O6.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P3-6-L16-M11.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_211005_H1930002_CX48_BL_La_2_P1-6-B11-J24.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P5-2-A3-I15.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P8-2-C14-M4.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P2-1-M2-L1.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P1-6-E2-F24.tsv_cpg.CGN-Both.allc.tsv.gz
+/Users/HowardYang/BIDMC/IDH/human_normal_data_CpG/HBA_200708_H1930002_CX51_A1C_1_P7-5-M5-D21.tsv_cpg.CGN-Both.allc.tsv.gz
